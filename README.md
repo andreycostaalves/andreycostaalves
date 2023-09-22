@@ -6,9 +6,7 @@
    WELCOME! 
 </h1>
 
-<a href="https://www.linkedin.com/in/andrey-costa-927458164/">
-  <img align="left" alt="andrey alves' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 <span align="right">
   
